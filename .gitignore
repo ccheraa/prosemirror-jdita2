@@ -1,0 +1,19 @@
+node_modules/
+.nyc_output
+coverage
+lib/
+
+package-lock.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+.vscode/
+yarn-error.log
+node_modules
