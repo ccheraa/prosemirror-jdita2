@@ -2,6 +2,7 @@ node_modules/
 .nyc_output
 coverage
 lib/
+dist/
 
 package-lock.json
 
@@ -15,5 +16,6 @@ package-lock.json
 .eslintcache
 
 .vscode/
+.cache/
 yarn-error.log
 node_modules
